@@ -27,11 +27,6 @@ Me interesa seguir aprendiendo sobre [tecnologías o habilidades].
 - HTML / CSS / JavaScript  
 - Figma / Adobe XD / Photoshop  
 - Git & GitHub  
-(
-
-## 📌 Proyectos destacados
-- 🔗 [Nombre del proyecto](link) — breve descripción  
-- 🔗 [Otro proyecto](link) — breve descripción  
 
 ## 🌱 Actualmente estoy aprendiendo
 - [A USAR GITHUD]
