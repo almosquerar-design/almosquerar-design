@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hola, soy [ALEXANDER MOSQUERA RAMIREZ]
+
+🎨 Diseñador / 💻 Desarrollador 
+📍 Colombia  
+
+## 🚀 Sobre mí
+Soy una persona apasionada por [diseño, desarrollo web, UX/UI, etc.].    
+Me interesa seguir aprendiendo sobre [tecnologías o habilidades].
+
+## 🛠️ Tecnologías y herramientas
+- HTML / CSS / JavaScript  
+- Figma / Adobe XD / Photoshop  
+- Git & GitHub  
+(
+
+## 📌 Proyectos destacados
+- 🔗 [Nombre del proyecto](link) — breve descripción  
+- 🔗 [Otro proyecto](link) — breve descripción  
+
+## 🌱 Actualmente estoy aprendiendo
+- [A USAR GITHUD]
+
+## 🤝 Me gustaría colaborar en
+- Proyectos de diseño  
+- Desarrollo web  
+- Open source  
+
+## 📫 Cómo contactarme
+- Email: ALMOSQUERAR@UNAL.EDU.CO  
+
+## ⚡ Dato curioso
+me gusta jugar mucho futbol 😄
